@@ -1,4 +1,7 @@
 package tech.clairtonlima.t1113.model;
 
-public class Diretor {
+class Diretor extends Pessoa {
+    public Diretor(String nome, String dataNascimento) {
+        super(nome, dataNascimento);
+    }
 }
