@@ -1,5 +1,5 @@
 
-# Catálogo de Filmes em Java
+# Catálogo de Filmes em Java - Santander Coders
 
 Este é um projeto Java que simula um catálogo de filmes, inspirado no IMDb. O sistema permite cadastrar filmes, atores, diretores e associar corretamente os atores e diretores aos filmes. Além disso, oferece a funcionalidade de pesquisar filmes cadastrados pelo nome, desconsiderando letras maiúsculas e minúsculas.
 
