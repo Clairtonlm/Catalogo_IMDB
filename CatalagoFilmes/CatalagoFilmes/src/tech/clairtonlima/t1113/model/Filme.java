@@ -2,7 +2,7 @@ package tech.clairtonlima.t1113.model;
 
 
 import java.util.List;
-
+import java.util.ArrayList;
 
 class Filme {
     private String nome;

@@ -1,5 +1,8 @@
 package tech.clairtonlima.t1113.model;
 
+import java.util.List;
+import java.util.ArrayList;
+
 class SistemaCatalogo {
     private List<Filme> filmes;
     private List<Ator> atores;
