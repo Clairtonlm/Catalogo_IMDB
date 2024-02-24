@@ -12,7 +12,6 @@ Este é um projeto Java que simula um catálogo de filmes, inspirado no IMDb. O 
 
 ## Estrutura do Projeto
 
-- `Pessoa`: Classe base representando uma pessoa comum.
 - `Ator` e `Diretor`: Subclasses de `Pessoa` com atributos específicos.
 - `Filme`: Classe representando um filme com informações como nome, descrição, data de lançamento, etc.
 - `CatalogoFilmes`: Classe que mantém uma lista de filmes e oferece métodos para cadastro e pesquisa.
